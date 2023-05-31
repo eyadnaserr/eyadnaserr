@@ -7,8 +7,7 @@ Enthusiastic student seeking internship opportunities to gain more experience an
 - 📫 How to reach me: You can contact me on eyadnaserrr@gmail.com
 
 🛠️ Languages and Tools :
-Java  Python JavaScript  NodeJS  HTML  CSS  MySQL  Git Dotnet-core mongodb Haskell
-Top Langs
+Java  Python JavaScript  NodeJS  HTML  CSS  MySQL  Git mongodb Haskell
 
 <!---
 eyadnaserr/eyadnaserr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
